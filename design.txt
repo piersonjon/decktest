@@ -1,0 +1,73 @@
+character variations:
+races?
+-race token gear item
+classes?
+-gear depends on class
+-base stats vary based on class?
+-(should there be stats?)
+-turn based, with stats
+
+reloading deck: much like KHCOM
+-pass X turns where X is the number of redraws so far, and then draw ? cards
+
+STAT CHART
+--------------
+STRength
+DEXterity
+INTelligence
+LuCK
+
+HP = [Race Base HP] + [Class HP Modifier] + [2*STR]
+MP = [Race Base MP] + [Class MP Modifier] + [2*INT]
+SPD = [Race Base SPD] + [Class HP Modifier] + [2*DEX]
+
+Attack Priority = [SPD1] + [Move SPD Modifier] VS [SPD2] + [Move SPD Modifier]
+
+TURN ACTIONS
+----------------
+Play a card from hand
+Put a card from hand into graveyard; draw a card
+Reload deck, shuffling graveyard into hand (costs one more turn each time used)
+???
+
+STORY AND WORLD DESIGN ASPECTS
+----------------------------------
+Goal changes the more you know about the world.
+At first, it's to head out to the kingdom of your realm and take it over and use its power to help the people. (?)
+As you go through this playthrough, you discover more and more about the world and the power the king possesses.
+
+The eastern realm belongs to a slumbering flaming dragon. Its fury and magic have steeped into the land.
+The tribes and the people have come to know and respect the dragon's power, and they have begun to harness this power for their own.
+Their relics and art represent shimmering, sharp edges and the dark steel cast in the flames of the dragon's power.
+All of the people long for the day the dragon wakes, to lead them to conquer the earth.
+
+To the west is a slumbering dragon of frost. Just as in the east, the dragon became a central part of the life of the tribes.
+Unlike the flaming dragon, this dragon is awake, and shares its power and knowledge with the tribes.
+This allowed them to become powerful sorcerers and soldiers alike, allowing their domain to remain mighty.
+Visitors are not often welcome, as the realm is constantly besieged by attacks from the east.
+
+
+
+1) Ordinary World:
+2) Call to Adventure:
+3) Refusal of the Call:
+4) Meeting the Mentor:
+5) Crossing the Threshold:
+6) Tests/Allies/Enemies:
+7) Approach to the Inmost Cave:
+8) Ordeal:
+9) Seizing the Sword:
+10) The Road Back:
+11) Resurrection:
+12) Return With The Elixir:
+
+
+OTHER FUN FEATURES WE DEFINITELY WANT
+-----------------------------------------
+-occasionally, defeating a notable enemy will give you the opportunity to travel with the person for some time.
+-death causes all of your items to leave you. bummer.
+defeating one of the Four Great Ones will allow you to deposit an item to be picked up in [Starting Zone] upon your death, allowing you to start with gear cards from your last run.
+while there will be a storage chest at the spawn zone, that can be a long way from home.
+there will be a few "hidden places" where you can stash item cards. not as hard to get to and can be used in a pinch, but not a promise that it will remain there...
+-gear card or post-fight ability: TIME WARP, allows the player to go back ? years in time. when the player gets this, they should be able to open all four gates within the century.
+be careful when using this item/spell: encountering yourself forces a battle against your party at the time...
